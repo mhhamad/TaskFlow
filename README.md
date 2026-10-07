@@ -7,16 +7,13 @@ Users can create projects, manage project members, create and assign tasks, and 
 ## Screenshots
 
 ### HomePage
-
-![HomePage](./Documentation/screenShots/homepage.png)
+![HomePage](<Project Documentation/screenShots/homepage.png>)
 
 ### Task Dashboard
-
-![Task Dashboard](./Documentation/screenShots/taskDashboard.png)
+![Task Dashboard](<Project Documentation/screenShots/taskDashboard.png>)
 
 ### Add New Task
-
-![Add New Task](./Documentation/screenShots/addNewTask.png)
+![Add New Task](<Project Documentation/screenShots/addNewTask.png>)
 
 
 ## Tech Stack
